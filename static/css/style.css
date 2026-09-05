@@ -1,13 +1,13 @@
 body {
-    background-color: rgba(160, 150, 150, 0.86);
+    background-color: rgba(200, 186, 186, 0.86);
 }
 
 h1 {
-    color: rgb(77, 17, 17);
+    color: rgb(81, 23, 23);
     font-family: Arial, Helvetica, sans-serif;
 }
 h2 {
-  color: rgb(50, 2, 2);
+  color: rgb(65, 9, 9);
   font-family: monospace;
 
 }
